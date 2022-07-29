@@ -1,0 +1,12 @@
+/* responsove style  */
+
+/* mobiel device */
+@media screen and (max-width: 768px){
+  .top-50{
+    top: 40px !important;
+  }
+  .heading-size{
+    font-size: 25px;
+  }
+
+  }
